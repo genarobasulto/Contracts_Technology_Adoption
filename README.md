@@ -45,6 +45,7 @@ The computational approach involves the following steps:
 - **Example 1-4:** Example datasets to run simulations.
 - ** NY calibration and solution: ** Calibration data from NY ATC reporting and solution of the model.
 - **_plots:** Code to generate solution plots.
+- **No contracts functions:** The program for solving the benchmark model with single prices.  
 - **Documentation:** Detailed explanation of functional form assumptions and computational strategies.
 
 ## How to Use
