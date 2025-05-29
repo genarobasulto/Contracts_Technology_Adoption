@@ -62,7 +62,9 @@ The computational approach involves the following steps:
 
 4. We prepared an example of usage in the file run_simulations_github_example.
    The basic functions to solve the model are in basic_functions_price_uncertanty_v2 and
-   no_contracts_functions_price_uncertanty. We also included code to plot the solutions. 
+   no_contracts_functions_price_uncertanty. We also included code to plot the solutions.
+   Note that the exact solutions in the paper are not directly replicable as they rely on
+   propertary data. 
 
 ## Assumptions and Limitations
 
