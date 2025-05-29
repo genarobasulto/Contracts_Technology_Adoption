@@ -58,7 +58,11 @@ The computational approach involves the following steps:
 
 2. Install dependencies (if applicable).  
 
-3. Follow the instructions in the documentation to set up input parameters and run the model.  
+3. Follow the instructions in the documentation to set up input parameters and run the model.
+
+4. We prepared an example of usage in the file run_simulations_github_example.
+   The basic functions to solve the model are in basic_functions_price_uncertanty_v2 and
+   no_contracts_functions_price_uncertanty. We also included code to plot the solutions. 
 
 ## Assumptions and Limitations
 
